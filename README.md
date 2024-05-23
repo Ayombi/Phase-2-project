@@ -1,4 +1,6 @@
 # Phase-3- Project - SYRIATEL CUSTOMER CHURN
+![image](https://github.com/Ayombi/Phase-2-project/assets/151352835/b36c297d-5406-4bdf-a277-406c76ef486c)
+
 __Overview__
 Syriatel Ltd is a Telecom company that would like a model to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company. A lot of resources go into understanding whether a customer will leave the company. Having a clear prediction model will assist the customers in costs to invest in and the marketing strategies to retain the customer.
 __BACKGROUND__ 
